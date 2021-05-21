@@ -1,0 +1,6 @@
+name: PacketNPC
+version: 1.0
+main: rotang.PacketNPC.PacketNPC
+
+commands:
+  npc:
